@@ -6,9 +6,9 @@ import org.jsoup.nodes.Document
 import org.jsoup.nodes.Element
 import spock.lang.Specification
 
-class TestTest extends Specification {
+class InMailLoginTest extends Specification {
 
-    void "test Test"()
+    void "InMailLoginTest"()
 
     {
 
